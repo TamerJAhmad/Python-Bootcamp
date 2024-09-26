@@ -20,6 +20,7 @@ What I learned through the projects:
 
 Day 1 - Tamer's Handy-Dandy Band Name Generator
 I created a brand name generator app that asks questions and concatenates the responses to create an awesome band name!
+
 skills learned: string manipulation, input function, variables, print function
 
 Day 2 - Makin' It Rain Tip Calculator
