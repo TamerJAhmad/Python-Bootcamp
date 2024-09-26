@@ -4,6 +4,7 @@
 Link to course on Udemy by Dr.Angela Yu - https://tm.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview
 
 Course Overview:
+
 Day 1-14 Beginner
 Day 15-31 Intermediate
 Day 32-40 Intermediate+
