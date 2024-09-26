@@ -36,3 +36,7 @@ I created a brand name generator app that asks questions and concatenates the re
 **Day 2 - Makin' It Rain Tip Calculator**
 I created a tip calculator app that takes input of total bill, tip amount, and number of people to split with, then outputs a calculation of the total each person should pay.
 **skills learned: data types, numbers, operations, type conversion, f-strings**
+
+**Day 3 - Choose Wisely Adventure Game**
+
+**skills learned: conditional statements, logical operators, code blocks, scope**
