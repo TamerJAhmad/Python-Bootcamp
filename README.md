@@ -38,5 +38,5 @@ I created a tip calculator app that takes input of total bill, tip amount, and n
 **skills learned: data types, numbers, operations, type conversion, f-strings**
 
 **Day 3 - Choose Wisely Adventure Game**
-
+I created an adventure game utilizing if/else and elif conditional statements to determine the path one takes to test your luck at finding the treasure and winning the game!
 **skills learned: conditional statements, logical operators, code blocks, scope**
