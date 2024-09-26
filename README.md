@@ -34,5 +34,5 @@ I created a brand name generator app that asks questions and concatenates the re
 **skills learned: string manipulation, input function, variables, print function**
 
 **Day 2 - Makin' It Rain Tip Calculator**
-
-skills learned: data types, numbers, operations, type conversion, f-strings
+I created a tip calculator app that takes input of total bill, tip amount, and number of people to split with, then outputs a calculation of the total each person should pay.
+**skills learned: data types, numbers, operations, type conversion, f-strings**
