@@ -40,3 +40,8 @@ I created a tip calculator app that takes input of total bill, tip amount, and n
 **Day 3 - Choose Wisely Adventure Game**
 I created an adventure game utilizing if/else and elif conditional statements to determine the path one takes to test your luck at finding the treasure and winning the game!
 **skills learned: conditional statements, logical operators, code blocks, scope**
+
+**Day 4 - Rock, Paper, Scissor Game**
+This is one of my favorite childhood game and took a lot of fun mental gymnastics to code!
+I used a python list to add my answer choices to. I used the random module for the computer to create a unique experience each iteration and elif statements and compare to user input choice to figure who won the game.
+**skills learned: randomisation, python lists**
