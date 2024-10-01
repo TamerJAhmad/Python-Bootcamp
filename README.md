@@ -43,5 +43,5 @@ I created an adventure game utilizing if/else and elif conditional statements to
 
 **Day 4 - Rock, Paper, Scissor Game**
 This is one of my favorite childhood game and took a lot of fun mental gymnastics to code!
-I used a python list to add my answer choices to. I used the random module for the computer to create a unique experience each iteration and elif statements and compare to user input choice to figure who won the game.
+I used a python list to add my answer choices to. I used the random module for the computer to create a unique experience each iteration and finally elif statements to compare to user input choice to figure who won the game.
 **skills learned: randomisation, python lists**
