@@ -27,7 +27,7 @@ Day 82-100 Professional Portfolio
 
 
 
-What I learned through the projects:
+**What I learned through the projects:**
 
 **Day 1 - Tamer's Handy-Dandy Band Name Generator**
 I created a brand name generator app that asks questions and concatenates the responses to create an awesome band name!
@@ -49,3 +49,12 @@ I used a python list to add my answer choices to. I used the random module for t
 **Day 5 - PyPassword Generator**
 This password generator takes input from a user how many letters, numbers and symbols they would like for their password to have. There is an easy version where it adds in order and a hard version that randomizes the character order of the password.
 **skills learned: for loops, range, code blocks**
+
+**Day 6 - Reeborg's World Escape the Maze Challenge**
+In this challenge, I put loop, function, and conditional statement skills together for Reeborg to successfully navigate the maze to the finish line!
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+**skills learned: functions, code blocks, while loops**
+
+**Day 7 - Hangman Game!**
+I created a hangman game putting all the concepts I learned so far. This has testes my knowledge of loops and conditional statements to make the ultimate user experience. This project calls two modules that I grouped into a Day7 hangman modules folder for viewing.
+**skills: for and while loops, if/else, lists, strings, range, modules**
