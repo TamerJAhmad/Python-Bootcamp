@@ -56,5 +56,9 @@ https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freebor
 **skills learned: functions, code blocks, while loops**
 
 **Day 7 - Hangman Game!**
-I created a hangman game putting all the concepts I learned so far. This has testes my knowledge of loops and conditional statements to make the ultimate user experience. This project calls two modules that I grouped into a Day7 hangman modules folder for viewing.
+I created a hangman game putting all the concepts I learned so far. This has tested my knowledge of loops and conditional statements to make the ultimate user experience. This project calls two modules that I grouped into a Day7 hangman modules folder for viewing.
 **skills: for and while loops, if/else, lists, strings, range, modules**
+
+**Day 8 - Caesar Cipher**
+In this project, I programed Caesar's cipher which takes user input for text and shift amount to encode a secret message. Decode the message using the encoded text and the shift number! 
+**skills: functions with inputs, arguments, parameters**
